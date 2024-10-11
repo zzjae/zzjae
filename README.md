@@ -15,4 +15,5 @@
   <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" />
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?zzjae=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzjae&layout=compact)
+
